@@ -1,4 +1,3 @@
-import { useSelector } from 'react-redux';
 import { useGetContactsQuery } from 'redux/contacts/contactsApi';
 import  ContactItem  from 'components/ContactItem/ContactItem';
 
